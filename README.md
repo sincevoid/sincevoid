@@ -1,5 +1,5 @@
 <pre>
-   ___   __  __  ___   __   __ ___   __   ___ 
+   ___   __  __  ___   __   __ ___   __   ___
   / __| / _|/ _|/ _ \  \ \ / /| __| / /  / _ \
  | (__ |  _|  _| (_) |  \ V / | _| / /__| (_) |
   \___||_| |_|  \___/    \_/  |___|____(_)___/
@@ -49,17 +49,26 @@
 
 ---
 
-## 🚧 Progresso de Skills
+## 🚧 Progresso de Skills e Experiência
 
-| Skill      | Nível                            |
-| ---------- | -------------------------------- |
-| Python     | <progress value="80" max="100"/> |
-| JavaScript | <progress value="75" max="100"/> |
-| TypeScript | <progress value="70" max="100"/> |
-| Java       | <progress value="65" max="100"/> |
-| Lua/Luau   | <progress value="60" max="100"/> |
-| HTML/CSS   | <progress value="80" max="100"/> |
-| PHP        | <progress value="50" max="100"/> |
+| Skill      | Nível       | Experiência                                 |
+| ---------- | ----------- | ------------------------------------------- |
+| Python     | Excelente ✅ | 6 anos desenvolvendo APIs, automações e IA  |
+| JavaScript | Excelente ✅ | 5 anos em front-end, Node.js e bots Discord |
+| TypeScript | Excelente ✅ | 4 anos criando aplicações escaláveis        |
+| Java       | Excelente ✅ | 4 anos em sistemas corporativos             |
+| Lua/Luau   | Excelente ✅ | 5 anos em desenvolvimento de jogos (Roblox) |
+| HTML/CSS   | Excelente ✅ | 6 anos em layouts responsivos e Tailwind    |
+| PHP        | Excelente ✅ | 4 anos em back-end e CMS personalizados     |
+
+\------------ | --------- |
+\| Python       | <progress value="80" max="100"/> |
+\| JavaScript   | <progress value="75" max="100"/> |
+\| TypeScript   | <progress value="70" max="100"/> |
+\| Java         | <progress value="65" max="100"/> |
+\| Lua/Luau     | <progress value="60" max="100"/> |
+\| HTML/CSS     | <progress value="80" max="100"/> |
+\| PHP          | <progress value="50" max="100"/> |
 
 ---
 
