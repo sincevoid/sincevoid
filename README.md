@@ -72,14 +72,6 @@
 
 ---
 
-## 🎧 Agora Tocado
-
-<p align="center">
-  <img src="https://spotify-readme.now.sh/api/spotify" alt="Spotify Now Playing"/>
-</p>
-
----
-
 ## 📜 Blog e Publicações
 
 <p align="center">
