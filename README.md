@@ -61,15 +61,6 @@
 | HTML/CSS   | Excelente ✅ | 6 anos em layouts responsivos e Tailwind    |
 | PHP        | Excelente ✅ | 4 anos em back-end e CMS personalizados     |
 
-\------------ | --------- |
-\| Python       | <progress value="80" max="100"/> |
-\| JavaScript   | <progress value="75" max="100"/> |
-\| TypeScript   | <progress value="70" max="100"/> |
-\| Java         | <progress value="65" max="100"/> |
-\| Lua/Luau     | <progress value="60" max="100"/> |
-\| HTML/CSS     | <progress value="80" max="100"/> |
-\| PHP          | <progress value="50" max="100"/> |
-
 ---
 
 ## 💬 Citações Aleatórias
