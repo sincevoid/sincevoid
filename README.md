@@ -72,30 +72,6 @@
 
 ---
 
-## 📜 Blog e Publicações
-
-<p align="center">
-  <img src="https://github-readme-rss.vercel.app/feed/?url=https://seublog.com/rss&layout=compact" alt="Últimas do Blog"/>
-</p>
-
----
-
-## 📅 Atividade Recente
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sincevoid&theme=react-dark" alt="Grafico de Atividade"/>
-</p>
-
----
-
-## 🖼️ Contador de Visitantes
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.ren/badge?page_id=sincevoid.sincevoid" alt="Visitor Count"/>
-</p>
-
----
-
 ## 💬 Citações Aleatórias
 
 <p align="center">
