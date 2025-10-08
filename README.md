@@ -11,9 +11,10 @@
 
 # 👋 Olá, Eu Sou João Vitor Silva Teixeira
 
-* **17 anos** | Estudante de Programação
+* **18 anos** | Estudante de Programação
 * **Chefe de Marketing** @ MRW Imobiliária (Sorocaba)
-* Programador desde **2018**, impactando **22M+ usuários** em projetos de grande escala
+* Programador desde **2018**, impactando **30.4M+ usuários** em projetos de grande escala
+* Criador de conteúdo [Youtuber](https://www.youtube.com/@sincedev) - 625.000+ alunos!
 
 ---
 
