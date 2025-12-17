@@ -76,7 +76,6 @@
 
 <p align="center">
   <a href="https://github.com/sincevoid"><img src="https://img.shields.io/badge/GitHub-sincevoid-181717?logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/joaovitor"><img src="https://img.shields.io/badge/LinkedIn-João_Vitor-0A66C2?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
